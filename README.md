@@ -10,7 +10,7 @@ Resulted application will be close to this example app: [aws-sam-typescript-laye
 [Install AWS SAM CLI](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-install.html) and run following command:
 
 ```sh
-sam init --location gh:Envek/cookiecutter-aws-sam-typescript-layers
+sam init --location gh:Melodics/cookiecutter-aws-sam-typescript-layers
 ```
 
 You'll be prompted a few questions to help this template to scaffold this project and after its completion you should see a new folder at your current path with the name of the project you gave as input.
